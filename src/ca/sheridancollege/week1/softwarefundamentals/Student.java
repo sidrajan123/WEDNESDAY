@@ -14,7 +14,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  */
 public class Student 
 {
-    private String foo;
+    private String Foot;
 
     /**
      * @return the name
